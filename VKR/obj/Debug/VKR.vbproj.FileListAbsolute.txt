@@ -1,0 +1,66 @@
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\VKR.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\VKR.exe
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\VKR.pdb
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\VKR.xml
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.vbprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.MDI_main.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.exe
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.xml
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.pdb
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form2.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form3.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form4.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form5.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\RdlCompile.cache
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\RdlCompile.compiled
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form10.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form6.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form7.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form8.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form9.resources
+c:\users\acer\documents\visual studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form11.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\VKR\VKR\obj\Debug\VKR.Form12.resources
+D:\VKR\VKR\bin\Debug\VKR.exe.config
+D:\VKR\VKR\bin\Debug\VKR.exe
+D:\VKR\VKR\bin\Debug\VKR.pdb
+D:\VKR\VKR\bin\Debug\VKR.xml
+D:\VKR\VKR\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VKR\VKR\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\VKR\VKR\obj\Debug\VKR.vbproj.AssemblyReference.cache
+D:\VKR\VKR\obj\Debug\VKR.vbproj.SuggestedBindingRedirects.cache
+D:\VKR\VKR\obj\Debug\VKR.Form1.resources
+D:\VKR\VKR\obj\Debug\VKR.Form10.resources
+D:\VKR\VKR\obj\Debug\VKR.Form11.resources
+D:\VKR\VKR\obj\Debug\VKR.Form12.resources
+D:\VKR\VKR\obj\Debug\VKR.Form2.resources
+D:\VKR\VKR\obj\Debug\VKR.Form3.resources
+D:\VKR\VKR\obj\Debug\VKR.Form4.resources
+D:\VKR\VKR\obj\Debug\VKR.Form5.resources
+D:\VKR\VKR\obj\Debug\VKR.Form6.resources
+D:\VKR\VKR\obj\Debug\VKR.Form7.resources
+D:\VKR\VKR\obj\Debug\VKR.Form8.resources
+D:\VKR\VKR\obj\Debug\VKR.Form9.resources
+D:\VKR\VKR\obj\Debug\VKR.MDI_main.resources
+D:\VKR\VKR\obj\Debug\VKR.Resources.resources
+D:\VKR\VKR\obj\Debug\VKR.vbproj.GenerateResource.cache
+D:\VKR\VKR\obj\Debug\VKR.vbproj.CoreCompileInputs.cache
+D:\VKR\VKR\obj\Debug\VKR.vbproj.CopyComplete
+D:\VKR\VKR\obj\Debug\VKR.exe
+D:\VKR\VKR\obj\Debug\VKR.xml
+D:\VKR\VKR\obj\Debug\VKR.pdb
