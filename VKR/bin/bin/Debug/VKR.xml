@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VKR
+</name>
+</assembly>
+<members>
+<member name="T:VKR.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:VKR.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:VKR.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Виды_работDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Выполнения_работыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.ДолжностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Ед_измеренияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.ЗаявкаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.КлиентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.МатериалыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СотрудникиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СтатусDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СтатусЗаявкиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.VipolnenieStatusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.chekDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.chekXPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Виды_работRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Выполнения_работыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.ДолжностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Ед_измеренияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.ЗаявкаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.КлиентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.МатериалыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СотрудникиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СтатусRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СтатусЗаявкиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.VipolnenieStatusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.chekRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.chekXPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Виды_работRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Выполнения_работыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.ДолжностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.Ед_измеренияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.ЗаявкаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.КлиентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.МатериалыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СотрудникиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СтатусRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.СтатусЗаявкиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.VipolnenieStatusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.chekRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSet.chekXPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.Виды_работTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.Выполнения_работыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.ДолжностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.Ед_измеренияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.ЗаявкаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.КлиентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.МатериалыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.СотрудникиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.СтатусTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.СтатусЗаявкиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.VipolnenieStatusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.chekTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.chekXPTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VKR.DipIPDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(VKR.DipIPDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VKR.DipIPDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(VKR.DipIPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VKR.DipIPDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(VKR.DipIPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VKR.DipIPDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VKR.DipIPDataSetTableAdapters.TableAdapterManager.UpdateAll(VKR.DipIPDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VKR.DipIPDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
